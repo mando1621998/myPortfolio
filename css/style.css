@@ -1,0 +1,10 @@
+.home .home-img img {
+    width: 200px;
+}
+nav a span {
+    color: #222;
+}
+.footer p span {
+    color: #BB2D3B;
+    cursor: pointer;
+}
